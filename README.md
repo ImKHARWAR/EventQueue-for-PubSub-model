@@ -51,7 +51,7 @@ Steps to Run ->
 
 9.Set the parameter of "getRequest(url,user_id,topic_id,path)" method for publishing data where 'url' is appened as the '{url}/rest/api/view?' which we got from ngrok and {path} is the address of variable for which you want to get value. (Referf to Offical Documentation of ChainLink for any issue)
 
-10.Transac "getRequest" Method and wait for few seconds and call "getMessage" to fetch output of the request.
+10.Transact "getRequest" Method and wait for few seconds and call "getMessage" to fetch output of the request.
 
 11.See the output of postRequest in postResponse variable and getRequest in getResponse variable.
 
